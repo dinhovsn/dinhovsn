@@ -35,4 +35,4 @@ Apaixonado por tecnologia, estudante de programação e entusiasta por conhecime
 
 ## Portfólio
 
-[Portfólio](https://dinhovsn.github.io/portfolio/#sobre)
+[Portfólio](https://dinhovsn.github.io/portfolio)
